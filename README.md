@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom: 70px">
-	<h1>🗒️ Chester</h1><br>
+	<h1>🐶 Chester</h1><br>
 </div>
 
-Organize and document your project.
+Create changelogs easily.
 
 ## Requirements
 
@@ -12,7 +12,7 @@ Organize and document your project.
 
 ## Installation
 
-For the installation process, take a look [here](https://github.com/BenSt099/Chester/blob/main/Installation.md).
+For the installation process, follow [these](https://github.com/BenSt099/Chester/blob/main/Installation.md) instructions.
 
 ## TODO
 

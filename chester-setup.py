@@ -1,7 +1,7 @@
 import sys
 import subprocess
 
-print("🗒️ Chester - Setup")
+print("🐶 Chester - Setup")
 print("Starting...")
 print()
 
